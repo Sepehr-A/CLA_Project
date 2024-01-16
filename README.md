@@ -1,3 +1,2 @@
-# CLA_Project
-Polito Computational linear algebra Project
-3 projects: PCA, Spectral Clustering, and one optional (subject to be defined) 
+# cla4lsp
+HW for the "Computational Linear Algebra for large-scale" problems course held at Polito
